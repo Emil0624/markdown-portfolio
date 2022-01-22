@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* emojis
+  * :smile:
+  * :+1:
+* lists
